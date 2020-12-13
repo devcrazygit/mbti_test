@@ -1,0 +1,21 @@
+PHPUnit 7.5.20 by Sebastian Bergmann and contributors.
+
+..
+Tests\Unit\QuestionModelTest/Tests\Unit\QuestionModelTest::testFindOne
+XxGOAv6Whq===XxGOAv6Whq
+ok.
+Tests\Unit\QuizModelTest/Tests\Unit\QuizModelTest::testFindOne
+ok..
+getquestions test
+.
+Quiz submit test.                                                             7 / 7 (100%)
+Admin login
+
+AdminLoginTest
+
+make quiz result
+get result for userget questions and answers for a quiz[{"question_str":{"id":10,"question_str":"Keeping your options open is more important than having a to-do list.","direction":1,"dimension":"JP","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":6},{"question_str":{"id":2,"question_str":"You consider yourself more practical than creative.","direction":-1,"dimension":"SN","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":2},{"question_str":{"id":3,"question_str":"Winning a debate matters less to you than making sure no one gets upset.","direction":1,"dimension":"TF","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":6},{"question_str":{"id":2,"question_str":"You consider yourself more practical than creative.","direction":-1,"dimension":"SN","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":3},{"question_str":{"id":6,"question_str":"Deadlines seem to you to be of relative rather than absolute importance.","direction":1,"dimension":"JP","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":3},{"question_str":{"id":3,"question_str":"Winning a debate matters less to you than making sure no one gets upset.","direction":1,"dimension":"TF","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":5},{"question_str":{"id":2,"question_str":"You consider yourself more practical than creative.","direction":-1,"dimension":"SN","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":4},{"question_str":{"id":4,"question_str":"You get energized going to social events that involve many interactions.","direction":-1,"dimension":"EI","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":1},{"question_str":{"id":4,"question_str":"You get energized going to social events that involve many interactions.","direction":-1,"dimension":"EI","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":7},{"question_str":{"id":9,"question_str":"You do not mind being at the center of attention.","direction":-1,"dimension":"EI","created_at":"2020-12-13 23:09:08","updated_at":"2020-12-13 23:09:08"},"value":7}]
+
+Time: 9.89 seconds, Memory: 26.00 MB
+
+OK (7 tests, 13 assertions)
