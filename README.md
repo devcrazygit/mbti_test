@@ -10,11 +10,11 @@ This repository contains source code for simple MBTI test.
 ## Installation
 First, you may have to create .env file. Copy the file ".env.example" as ".env"
 
-## Docker
 Start server by docker
 ```
 $ docker-compose up -d
 ```
+
 And then install composer packages, migrate and seed database.
 In docker shell, run the following commands.
 ```
@@ -26,7 +26,9 @@ $ php artisan db:seed
 
 That's all. Your mbti test service started.
 
-If you want to test, please run the following command in docker shell.
+## Test
+If you want to test, you have to create database named as "shift_test" like this. It can be configured in .env.testing.
+And then, please run the following command in docker shell.
 ```
 php ./vendor/phpunit/phpunit/phpunit
 ```
