@@ -1,4 +1,4 @@
-# MBTI Test ( Laravel + Vue.js example project )
+# MBTI Test ( Laravel + Vue.js starter project )
 This repository contains source code for simple MBTI test.
 
 ## Tech stack
